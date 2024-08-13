@@ -51,10 +51,15 @@ Exemple de média :
 ```
 
 ## Chiffrement à partir de la clé publique du portail
+
 Elles peuvent être chiffrées à partir d'une clé publique exposée par le portail.
+
+**Remarque:** La paire de clé de chiffrement est générée par le portail pour chaque media.
+
 Cette clé est accessible via la requête :
+
 ```
-curl -X GET "https://rudi.bzh/konsult/v1/encryption-key" -H  "accept: application/octet-stream"
+curl -X GET "https://rudi.bzh//apigateway/v1/encryption-key?media-id=<uuid du media>" -H  "accept: application/octet-stream"
 ```
 
 Dans ce cas là, le déchiffrement des données se fait automatiquement par le portail lors d'un téléchargement. Cette étape est totalement transparente pour vous.
@@ -62,6 +67,7 @@ Dans ce cas là, le déchiffrement des données se fait automatiquement par le p
 ![prod](https://user-images.githubusercontent.com/109140019/221823775-41613dab-097a-4f87-9508-cf665019a532.PNG)
 
 
-## Chiffrement à partir d'une clé inconnue pour le portail
+## Chiffrement à partir d'une clé non gérée par le portail
+
 Les données en accès restreint peuvent être chiffrées à partir d'une autre clé, qui n'est pas connue par le portail.
 Dans ce cas, le portail Rudi ne peut pas déchiffrer la donnée. Les données que vous récupérez au moment du téléchargement seront alors chiffrées.

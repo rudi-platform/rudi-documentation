@@ -5,12 +5,9 @@ title: Média WMTS
 
 # Publier un jeu de données ayant un média de type WMTS
 
-Vous trouverez ci-dessous la section available format à ajouter à votre json de publication. 
+Vous trouverez ci-dessous la section *available_formats* à ajouter à votre json de publication afin de publier une media de type WMTS.
 
-Point Infos : Pour récupérer un json d'un jeu de données présent sur rudi.bzh vous pouvez le requêter en effectuant un GET sur l'url d'un média présent dans la page de détail du jeu de données (section : "Source de données"). 
-* La requête : curl -v -X GET "https://rudi.bzh/medias/fd6be827-a10f-46d0-9c58-e143d26f7e55/dwnl/1.0.0".
-
-La section de code à ajouter au JSON (particularité : Seule la projection 3857 permet une visualisation au sein du portail.): 
+**Remarque :** seule la projection 3857 permet une visualisation au sein du portail.): 
 
 ```
 
