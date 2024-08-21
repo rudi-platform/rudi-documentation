@@ -13,7 +13,7 @@ Une fois la demande d'accès acceptée par le producteur et la souscription réa
 
 Vous pouvez également télécharger le jeu de données depuis son détail : pour cela vous devez vous connecter, accéder au détail du jeu de donnée et cliquer sur le bouton Télécharger.
 
-![Télécharger depuis le portail]({{site.url}}/assets/images/restricted-data/download.png)
+![Télécharger depuis le portail](/assets/images/restricted-data/download.png)
 
 
 ## Téléchargement de la donnée via API

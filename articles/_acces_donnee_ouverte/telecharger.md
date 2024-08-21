@@ -10,4 +10,4 @@ Les jeux de données ouverts sont téléchargeables depuis le portail Rudi, sans
 Pour télécharger un jeu de données, il est nécessaire d'accéder au détail du jeu de données depuis le catalogue.
 Un bouton Télécharger en haut vous permet de sélectionner le format dans lequel vous souhaitez télécharger le jeu de données.
 
-![téléchargement]({{site.url}}/assets/images/open-data/download.png)
+![téléchargement](/assets/images/open-data/download.png)

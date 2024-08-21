@@ -52,7 +52,7 @@ curl -X GET "https://<site-rudi>/apigateway/v1/encryption-key?media-id=<uuid du 
 
 **Remarque:** La paire de clé de chiffrement est générée par le portail pour chaque media.
 
-![prod]({{site.url}}/assets/images/109140019/221823775-41613dab-097a-4f87-9508-cf665019a532.PNG)
+![prod](/assets/images/109140019/221823775-41613dab-097a-4f87-9508-cf665019a532.PNG)
 
 
 ## Chiffrement à partir d'une clé non gérée par le portail

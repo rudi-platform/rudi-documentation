@@ -11,8 +11,8 @@ Rudi vous permet d’exercer vos droits en simplifiant et centralisant vos déma
 
 Cliquez sur une rubrique ci-dessous pour obtenir plus d'informations.
 
-- [Accéder à vos données personnelles]({{site.url}}/donnees_personnelles/access/)
-- [Demander la rectification de données vous concernant]({{site.url}}donnees_personnelles/rectification/)
-- [Demander l'effacement de données vous concernant]({{site.url}}donnees_personnelles/effacement/)
+- [Accéder à vos données personnelles](/donnees_personnelles/access/)
+- [Demander la rectification de données vous concernant](donnees_personnelles/rectification/)
+- [Demander l'effacement de données vous concernant](donnees_personnelles/effacement/)
 
-![perso]({{site.url}}/assets/images/personal-data/personal-data-1.png)
+![perso](/assets/images/personal-data/personal-data-1.png)

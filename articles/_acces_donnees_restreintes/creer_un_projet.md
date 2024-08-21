@@ -18,5 +18,5 @@ Lorsque votre projet est créé, celui-ci est référencé dans le catalogue des
 
 La modification d'un projet n'est pas encore possible dans Rudi.
 
-![Créer un projet]({{site.url}}/assets/images/restricted-data/create-project.png)
+![Créer un projet](/assets/images/restricted-data/create-project.png)
 

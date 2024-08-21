@@ -64,7 +64,7 @@ curl -X GET "https://<site-rudi>//apigateway/v1/encryption-key?media-id=<uuid du
 
 Dans ce cas là, le déchiffrement des données se fait automatiquement par le portail lors d'un téléchargement. Cette étape est totalement transparente pour vous.
 
-![prod]({{site.url}}/assets/images/publication/chiffrement.png)
+![prod](/assets/images/publication/chiffrement.png)
 
 
 ## Chiffrement à partir d'une clé non gérée par le portail

@@ -9,19 +9,19 @@ title: Données de Rudi
 
 Une **Donnée ouverte** sur Rudi est une donnée accessible librement à tout **Utilisateur**. Elle dispose néanmoins de conditions d'utilisation, qui sont définies par la licence qui lui a été attribuée. 
 
-![Ouvert]({{site.url}}/assets/images/glossaire/datasets/open-dataset.png)
+![Ouvert](/assets/images/glossaire/datasets/open-dataset.png)
 
 ## Donnée restreinte (ou Jeu de données restreint)
 
 Une **Donnée restreinte** désigne toute donnée non ouverte sur le catalogue. Il s'agit de données dont le **Producteur** a indiqué ne donner l'accès qu'à certaines conditions. Les Jeux de données restreints apparaissent dans le catalogue, mais leur accès doit faire l'objet d'une **Demande** via un **Projet**. Les conditions d'accès sont définies par le producteur de données, en accord avec la réglementation en vigueur sur l'accès aux données. 
 
-![Restreint]({{site.url}}/assets/images/glossaire/datasets/restricted-dataset.png)
+![Restreint](/assets/images/glossaire/datasets/restricted-dataset.png)
 
 ## Donnée personnelle (ou Donnée à caractère personnel)
 
 Toute donnée permettant d'identifier directement ou indirectement une personne. Les **Producteurs de données** peuvent détenir des **Données personnelles** collectées dans le cadre de leur activité. Ces données peuvent éventuellement être transmises à des **Porteurs de projet**, et ce uniquement avec le **Consentement** explicite des personnes concernés. Les données personnelles peuvent également être anonymisées par leur producteur (voir **Donnée anonymisée**).
 
-![Selfdata]({{site.url}}/assets/images/glossaire/datasets/self-dataset.png)
+![Selfdata](/assets/images/glossaire/datasets/self-dataset.png)
 
 ## Jeu de données anonymisé (ou Donnée anonymisée)
 

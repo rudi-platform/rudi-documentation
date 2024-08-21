@@ -5,7 +5,7 @@ title: Concepts de Rudi
 
 # Glossaire : notions-clés utilisées sur la plateforme Rudi
 
-![bandeau]({{site.url}}/assets/images//images/glossaire/rudi.png)
+![bandeau](/assets/images//images/glossaire/rudi.png)
 
 
 ## Réutilisation

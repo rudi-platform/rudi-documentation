@@ -22,4 +22,4 @@ Deux modes d’accès sont possibles :
 
 Le traitement de votre demande peut prendre jusqu’à XX mois (valeur à déterminer à l'issue de la phase d'expérimentation).
 
-![perso]({{site.url}}/assets/images/personal-data/personal-data-2.png)
+![perso](/assets/images/personal-data/personal-data-2.png)
