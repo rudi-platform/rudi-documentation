@@ -4,14 +4,15 @@ title: Accéder à vos données
 ---
 
 # Les jeux de données personnelles
+
 Conformément aux directives européennes en matière de données personnelles, vous avez la possibilité de demander **l’accès, la rectification et la suppression de vos données personnelles** auprès des producteurs de données concernés.
 
 Rudi vous permet d’exercer vos droits en simplifiant et centralisant vos démarches au sein de votre **espace personnel**.
 
 Cliquez sur une rubrique ci-dessous pour obtenir plus d'informations.
 
-- [Accéder à vos données personnelles](https://sigrennesmetropole.github.io/rudi_documentation/donnees_personnelles/access/)
-- [Demander la rectification de données vous concernant](https://sigrennesmetropole.github.io/rudi_documentation/donnees_personnelles/rectification/)
-- [Demander l'effacement de données vous concernant](https://sigrennesmetropole.github.io/rudi_documentation/donnees_personnelles/effacement/)
+- [Accéder à vos données personnelles]({{site.url}}/donnees_personnelles/access/)
+- [Demander la rectification de données vous concernant]({{site.url}}donnees_personnelles/rectification/)
+- [Demander l'effacement de données vous concernant]({{site.url}}donnees_personnelles/effacement/)
 
-![pero](https://user-images.githubusercontent.com/109140019/221822839-40b95133-7c7a-4bb9-af25-442df49dec4d.PNG)
+![perso]({{site.url}}/assets/images/personal-data/personal-data-1.png)

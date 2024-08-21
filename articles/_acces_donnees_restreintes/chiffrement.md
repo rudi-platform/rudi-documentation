@@ -47,12 +47,12 @@ Les données peuvent être chiffrées à partir d'une clé publique exposée par
 Cette clé est accessible via la requête :
 
 ```
-curl -X GET "https://rudi.bzh//apigateway/v1/encryption-key?media-id=<uuid du media>" -H  "accept: application/octet-stream"
+curl -X GET "https://<site-rudi>/apigateway/v1/encryption-key?media-id=<uuid du media>" -H  "accept: application/octet-stream"
 ```
 
 **Remarque:** La paire de clé de chiffrement est générée par le portail pour chaque media.
 
-![prod](https://user-images.githubusercontent.com/109140019/221823775-41613dab-097a-4f87-9508-cf665019a532.PNG)
+![prod]({{site.url}}/assets/images/109140019/221823775-41613dab-097a-4f87-9508-cf665019a532.PNG)
 
 
 ## Chiffrement à partir d'une clé non gérée par le portail

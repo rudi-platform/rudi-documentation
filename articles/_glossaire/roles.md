@@ -5,7 +5,7 @@ title: Rôles
 
 # Les différents rôles sur la plateforme Rudi
 
-![gloss](https://user-images.githubusercontent.com/109140019/221825035-47ad122e-f8a6-4347-a0bc-65886c52b47e.PNG)
+![glossaire]({{site.url}}/assets/images/glossaire/human-banner.png)
 
 
 ## Producteur de données

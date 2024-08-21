@@ -1,6 +1,6 @@
-# Documentation de rudi.bzh
+# Documentation de RUDI
 
-Ce dépôt correspond au contenu du site [doc.rudi.bzh](https://doc.rudi.bzh), site consacré à la documentation de la plateforme [rudi.bzh](https://rudi.bzh).
+Ce dépôt correspond au contenu du site [doc.rudi.rennesmetropole.fr](https://doc.rudi.rennesmetropole.fr), site consacré à la documentation de la plateforme [rudi.rennesmetropole.fr](https://rudi.rennesmetropole.fr).
 
 ## Contribuer
 

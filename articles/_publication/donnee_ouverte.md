@@ -10,8 +10,8 @@ Votre noeud producteur vous permet de saisir en ligne toutes les informations re
 
 Les données publiées sur votre noeud producteur ne seront pas transférées vers Rudi : lorsque des utilisateurs souhaiteront accéder à vos données, ils seront redirigés directement sur votre noeud producteur.
 
-Si vous n'avez pas encore accès à un noeud producteur, vous pouvez prendre contact avec l'animateur Rudi via le formulaire en ligne : [formulaire](https://blog.rudi.bzh/portail-beta-contact/).
+Si vous n'avez pas encore accès à un noeud producteur, vous pouvez prendre contact avec l'animateur de l'instance Rudi via le formulaire en ligne (*https://<site-rudi>/contact*).
 
 L'animateur vous recontactera le plus rapidement possible.
 
-De la documentation est d'ores et déjà disponible à l'adresse [suivante](https://blog.rudi.bzh/yeswiki/?LeNoeudProducteurV23NouvellesFonctionnal).
+De la documentation est d'ores et déjà disponible à l'adresse [suivante](https://rudi.fr/yeswiki/?LeNoeudProducteurV23NouvellesFonctionnal).

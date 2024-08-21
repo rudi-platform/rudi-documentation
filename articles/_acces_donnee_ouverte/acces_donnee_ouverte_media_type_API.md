@@ -13,10 +13,10 @@ Il faut d'abord s'authentifier avec un des [trois modes disponibles](../_authent
 Il faut ensuite effectuer une requête de la forme :
 
 ```
-curl -kv -XGET -H "Authorization: Bearer <le token  que vous avez récupéré ci-dessus>" "https://rudi.bzh/medias/{IDENTIFIANT DU JEU DE DONNEES}/{IDENTIFIANT DU MEDIA}/{CONTRAT D'INTERFACE}"
+curl -kv -XGET -H "Authorization: Bearer <le token  que vous avez récupéré ci-dessus>" "https://<site rudi>/medias/{IDENTIFIANT DU JEU DE DONNEES}/{IDENTIFIANT DU MEDIA}/{CONTRAT D'INTERFACE}"
 ```
 
 L'url d'un jeu de données est consultable depuis le portail, dans le détail d'un jeu de données / Informations complémentaires / Sources de données (un bouton vous permet de copier directement l'url) : 
 
-![image](https://github.com/rudi-platform/rudi-documentation/assets/109140019/320150b0-8ef3-455d-b37e-e63269fb88af)
+![Request API]({{site.url}}/assets/images/open-data/request-api.png)
 

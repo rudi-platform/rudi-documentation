@@ -12,7 +12,8 @@ Une fois la demande d'accès acceptée par le producteur et la souscription réa
 ## Téléchargement de la donnée à partir du portail
 
 Vous pouvez également télécharger le jeu de données depuis son détail : pour cela vous devez vous connecter, accéder au détail du jeu de donnée et cliquer sur le bouton Télécharger.
-![restprod](https://user-images.githubusercontent.com/109140019/221825731-2b310847-767f-47f6-a624-8e9a2c99ebae.PNG)
+
+![Télécharger depuis le portail]({{site.url}}/assets/images/restricted-data/download.png)
 
 
 ## Téléchargement de la donnée via API
@@ -24,7 +25,7 @@ Cet appel permet de récupérer un token.
 Il faut ensuite effectuer une requête de la forme :
 
 ```
-curl -kv -XGET -H "Authorization: Bearer <le token  que vous avez récupéré ci-dessus>" "https://rudi.bzh/medias/{IDENTIFIANT DU JEU DE DONNEES}/{IDENTIFIANT DU MEDIA}/{CONTRAT D'INTERFACE}"
+curl -kv -XGET -H "Authorization: Bearer <le token  que vous avez récupéré ci-dessus>" "https://<site-rudi>/medias/{IDENTIFIANT DU JEU DE DONNEES}/{IDENTIFIANT DU MEDIA}/{CONTRAT D'INTERFACE}"
 ```
 
 L'url d'un jeu de données est consultable depuis le portail, dans le détail d'un jeu de données / Informations complémentaires / Sources de données (un bouton vous permet de copier directement l'url).
