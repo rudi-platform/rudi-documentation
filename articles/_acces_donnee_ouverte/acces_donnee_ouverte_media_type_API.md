@@ -18,5 +18,5 @@ curl -kv -XGET -H "Authorization: Bearer <le token  que vous avez récupéré ci
 
 L'url d'un jeu de données est consultable depuis le portail, dans le détail d'un jeu de données / Informations complémentaires / Sources de données (un bouton vous permet de copier directement l'url) : 
 
-![Request API]({{site.url}}/assets/images/open-data/request-api.png)
+![Request API](/assets/images/open-data/request-api.png)
 
