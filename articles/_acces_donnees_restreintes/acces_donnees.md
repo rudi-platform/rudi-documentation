@@ -22,10 +22,10 @@ Cet appel permet de récupérer un token.
 
 A partir du "jwtToken "il est alors possible de requêter les APIs de téléchargement par le biais d'une requête "Get". Nous l'effectuons sur une url qui prend en paramètre l'identifiant du média du jeu de données.
 
-Exemple de requête sur le média de type csv du jeu de données : [Détail d'un jeu de données ouvert](https://rudi.bzh/catalogue/detail/6c3b795c-0b60-4bf8-911c-c6f0625b7123) : 
+Exemple de requête sur le média de type csv du jeu de données : [Détail d'un jeu de données ouvert](https://rudi.rennesmetropole.fr/catalogue/detail/6c3b795c-0b60-4bf8-911c-c6f0625b7123) : 
 
 ```
-curl -v -X GET " https://rudi.bzh/apm/medias/1cd92470-77b6-46c6-ae7b-14d10fac49d7/dwnl/1.0.0" -H "Authorization: Bearer [jwtToken]"
+curl -v -X GET " https://rudi.rennesmetropole.fr/apm/medias/1cd92470-77b6-46c6-ae7b-14d10fac49d7/dwnl/1.0.0" -H "Authorization: Bearer [jwtToken]"
 ```
 
 Les différentes informations du médias sont récupérables dans la page de détail du jeu de données au sein de la partie 'Informations complémentaires' puis 'Source de données'.
