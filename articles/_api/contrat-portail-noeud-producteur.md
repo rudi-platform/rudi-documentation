@@ -5,14 +5,14 @@ title: Contrat portail nœud producteur
 
 **Note Technique de spécification d&#39;interface**
 
-#
+
 # **1. Contexte**
 
 L&#39;objet du présent document est de définir le contrat d&#39;interface en termes d&#39;API REST entre le portail RUDI et un nœud producteur RUDI.
 
 Le portail RUDI étant décomposé en micro-services, la communication entre un nœud producteur et le portail RUDI se fait au travers du micro-services « µKollect ».
 
-#
+
 # **2. Collecte des métadonnées**
 
 La collecte des métadonnées est réalisée par le module « Mise à jour catalogue ».
@@ -62,7 +62,6 @@ Pour chaque jeu de données traité, le module de collecte envoi au nœud produc
 
 Ce rapport d&#39;intégration à vocation à permettre à un nœud producteur de ne fonctionner que par moissonnage et d&#39;être ainsi informé qu&#39;un jeu de données particulier a été intégré dans le portail.
 
-#
 # **3. contrat d&#39;interface Portail / nœud PRODUCTEUR**
 
 ## **3.1. Périmètre**

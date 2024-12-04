@@ -9,7 +9,7 @@ De la même manière que pour les jeux de données ouverts, la publication sur R
 
 Lors de la saisie des métadonnées concernant votre jeu de données, vous pourrez indiquer que vous souhaitez restreindre l'accès à ce jeu de données. Vous devrez alors indiquer quelles sont les conditions d'accès pour pouvoir accéder à ce jeu de données. Les données restreintes sont stockées chiffrées dans le noeud producteur. De plus amples informations sur le chiffrement des données sont définies dans les chapitres ci-dessous.
 
-Si vous n'avez pas encore accès à un noeud producteur, vous pouvez prendre contact avec l'animateur Rudi via le formulaire en ligne : [formulaire](https://blog.rudi.bzh/portail-beta-contact/).
+Si vous n'avez pas encore accès à un noeud producteur, vous pouvez prendre contact avec l'animateur de l'instance Rudi via le formulaire en ligne (*https://<site-rudi>/contact*).
 
 L'animateur vous recontactera le plus rapidement possible.
 
@@ -51,17 +51,23 @@ Exemple de média :
 ```
 
 ## Chiffrement à partir de la clé publique du portail
+
 Elles peuvent être chiffrées à partir d'une clé publique exposée par le portail.
+
+**Remarque:** La paire de clé de chiffrement est générée par le portail pour chaque media.
+
 Cette clé est accessible via la requête :
+
 ```
-curl -X GET "https://rudi.bzh/konsult/v1/encryption-key" -H  "accept: application/octet-stream"
+curl -X GET "https://<site-rudi>//apigateway/v1/encryption-key?media-id=<uuid du media>" -H  "accept: application/octet-stream"
 ```
 
 Dans ce cas là, le déchiffrement des données se fait automatiquement par le portail lors d'un téléchargement. Cette étape est totalement transparente pour vous.
 
-![prod](https://user-images.githubusercontent.com/109140019/221823775-41613dab-097a-4f87-9508-cf665019a532.PNG)
+![prod](/assets/images/publication/chiffrement.png)
 
 
-## Chiffrement à partir d'une clé inconnue pour le portail
+## Chiffrement à partir d'une clé non gérée par le portail
+
 Les données en accès restreint peuvent être chiffrées à partir d'une autre clé, qui n'est pas connue par le portail.
 Dans ce cas, le portail Rudi ne peut pas déchiffrer la donnée. Les données que vous récupérez au moment du téléchargement seront alors chiffrées.

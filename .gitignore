@@ -101,3 +101,5 @@ theme/node_modules/
 /.idea/
 *.iml
 /.jekyll-cache/
+/.project
+/.settings/
