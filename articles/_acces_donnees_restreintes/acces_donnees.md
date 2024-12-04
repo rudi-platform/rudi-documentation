@@ -15,7 +15,6 @@ Vous pouvez également télécharger le jeu de données depuis son détail : pou
 
 ![Télécharger depuis le portail](/assets/images/restricted-data/download.png)
 
-
 ## Téléchargement de la donnée via API
 
 Il faut d'abord s'authentifier avec une des [deux modes disponibles](../_authentification/authentification.md) afin de récupérer un token JWT.

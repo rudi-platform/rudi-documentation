@@ -1,6 +1,6 @@
 ---
 order: 2
-title: Données ouvertes
+title: test - Données ouvertes
 ---
 
 # Publication de données ouvertes sur Rudi
@@ -12,6 +12,6 @@ Les données publiées sur votre noeud producteur ne seront pas transférées ve
 
 Si vous n'avez pas encore accès à un noeud producteur, vous pouvez prendre contact avec l'animateur de l'instance Rudi via le formulaire en ligne (*https://<site-rudi>/contact*).
 
-L'animateur vous recontactera le plus rapidement possible.
+L'animateur vous recontactera le plus rapidement possible
 
 De la documentation est d'ores et déjà disponible à l'adresse [suivante](https://rudi.fr/yeswiki/?LeNoeudProducteurV23NouvellesFonctionnal).
