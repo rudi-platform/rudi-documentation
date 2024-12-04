@@ -5,14 +5,14 @@ title: Contrat portail nœud producteur
 
 **Note Technique de spécification d&#39;interface**
 
-#
+
 # **1. Contexte**
 
 L&#39;objet du présent document est de définir le contrat d&#39;interface en termes d&#39;API REST entre le portail RUDI et un nœud producteur RUDI.
 
 Le portail RUDI étant décomposé en micro-services, la communication entre un nœud producteur et le portail RUDI se fait au travers du micro-services « µKollect ».
 
-#
+
 # **2. Collecte des métadonnées**
 
 La collecte des métadonnées est réalisée par le module « Mise à jour catalogue ».
@@ -26,7 +26,7 @@ Le module fonctionne selon 2 modes :
 
 En mode « **notification** », le diagramme de séquence d&#39;appel est le suivant :
 
-![diagramme de séquence des notifications]({{site.url}}/assets/diagrams/metacatalogue-push.png)
+![diagramme de séquence des notifications](/assets/diagrams/metacatalogue-push.png)
 
 *Figure 1 - Diagramme de séquence &quot;notification&quot;*
 
@@ -46,7 +46,7 @@ A l&#39;issue du traitement, le module de collecte envoie au nœud producteur un
 
 En mode « **moissonnage** », le diagramme de séquence d&#39;appel est le suivant :
 
-![diagramme de séquence de moissonnage]({{site.url}}/assets/diagrams/metacatalogue-pull.png)
+![diagramme de séquence de moissonnage](/assets/diagrams/metacatalogue-pull.png)
 
 *Figure 2 - Diagramme de séquence &quot;moisonnage&quot;*
 
@@ -62,7 +62,6 @@ Pour chaque jeu de données traité, le module de collecte envoi au nœud produc
 
 Ce rapport d&#39;intégration à vocation à permettre à un nœud producteur de ne fonctionner que par moissonnage et d&#39;être ainsi informé qu&#39;un jeu de données particulier a été intégré dans le portail.
 
-#
 # **3. contrat d&#39;interface Portail / nœud PRODUCTEUR**
 
 ## **3.1. Périmètre**

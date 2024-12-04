@@ -7,6 +7,7 @@ Une fois votre compte créé dans Rudi, vous pouvez rejoindre une organisation a
 Tous les utilisateurs rattachés à une organisation ont les mêmes droits.
 
 La création d'une organisation, l'ajout d'un utilisateur ou sa suppression ne sont pas encore directement possibles depuis l'interface du portail Rudi.
-Pour toutes ces actions, vous devez contacter l'animateur Rudi à partir du lien suivant : [contact](https://rudi.datarennes.fr/portail-beta-contact/).
+
+Pour toutes ces actions, vous devez contacter l'animateur de l'instance Rudi à partir du lien suivant.
 
 Depuis votre espace personnel, vous pouvez consulter la liste des organisations auxquelles vous appartenez.

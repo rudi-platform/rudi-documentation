@@ -5,7 +5,7 @@ title: Créer un projet
 
 # Créer un projet
 
-La création d'un projet se fait depuis le [catalogue des réutilisations](https://rudi.bzh/projets), en cliquant sur le bouton "**Soumettre un projet**". 
+La création d'un projet se fait depuis le catalogue des réutilisations, en cliquant sur le bouton "**Soumettre un projet**". 
 
 Pour créer un projet, vous devez renseigner différentes informations :
 - Informations décrivant le projet 
@@ -18,5 +18,5 @@ Lorsque votre projet est créé, celui-ci est référencé dans le catalogue des
 
 La modification d'un projet n'est pas encore possible dans Rudi.
 
-![projet](https://user-images.githubusercontent.com/109140019/221820875-d31dcaf6-633c-4b05-a8e9-a1380ef9b2b7.PNG)
+![Créer un projet](/assets/images/restricted-data/create-project.png)
 

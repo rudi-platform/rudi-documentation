@@ -4,9 +4,9 @@ description: >
 
 twitter_username: projetrudi
 github_username:  sigrennesmetropole
-github_repository: sigrennesmetropole/rudi_documentation
+github_repository: rudi-platform/rudi-documentation
 master_branch: main
-url: https://sigrennesmetropole.github.io/rudi_documentation
+url: https://rudi-platform.github.io/rudi-documentation
 lang: fr
 permalink: pretty
 
@@ -37,12 +37,11 @@ collections:
     order: 1
     title: Glossaire
     output: true
-    -Généralités: https://github.com/sigrennesmetropole/rudi_documentation/blob/main/articles/_glossaire/general.md
-    -Rôles: https://github.com/sigrennesmetropole/rudi_documentation/blob/main/articles/_glossaire/roles.md
-    -Utilisateurs et comptes: https://github.com/sigrennesmetropole/rudi_documentation/blob/main/articles/_glossaire/utilisateurs-comptes.md
-    -Données de Rudi: https://github.com/sigrennesmetropole/rudi_documentation/blob/main/articles/_glossaire/donnees-rudi.md
-    -Concepts de Rudi: https://github.com/sigrennesmetropole/rudi_documentation/blob/main/articles/_glossaire/concepts-rudi.md
-
+    -Généralités: https://github.com/rudi-platform/rudi-documentation/blob/main/articles/_glossaire/general.md
+    -Rôles: https://github.com/rudi-platform/rudi-documentation/blob/main/articles/_glossaire/roles.md
+    -Utilisateurs et comptes: https://github.com/rudi-platform/rudi-documentation/blob/main/articles/_glossaire/utilisateurs-comptes.md
+    -Données de Rudi: https://github.com/rudi-platform/rudi-documentation/blob/main/articles/_glossaire/donnees-rudi.md
+    -Concepts de Rudi: https://github.com/rudi-platform/rudi-documentation/blob/main/articles/_glossaire/concepts-rudi.md
     
   espace_personnel_explication:
     order: 2
@@ -64,28 +63,33 @@ collections:
     title: Accéder à vos données personnelles
     output: true
     
-  api:
+  authentification:
     order: 6
+    title: S'authentifier sur le portail
+    output: true
+    
+  api:
+    order: 7
     title: API
     output: true
     
   organisation:
-    order: 7
+    order: 8
     title: Organisation
     output: true
  
   publication:
-    order: 8
+    order: 9
     title: Noeud producteur
     output: true
 
-  Jeux_de_donnees_geo:
-    order: 9
+  jeux_de_donnees_geo:
+    order: 10
     title: Publier des jeux de données géographiques
     output: true
   
   autres:
-    order: 10
+    order: 11
     title: Autres
     output: true
 

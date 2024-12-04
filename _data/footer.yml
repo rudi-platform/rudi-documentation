@@ -2,14 +2,12 @@ links:
   - label: Liens utiles
     children:
       - label: Rudi
-        url: https://rudi.bzh/
+        url: https://rudi.fr/
       - label: Conditions générales d’utilisation
-        url: https://rudi.datarennes.fr/cgu/
+        url: https://rudi.fr/cgu/
       - label: Contact
-        url: https://rudi.datarennes.fr/portail-beta-contact/
+        url: https://rudi.fr/contact
 
 social:
-  - icon: twitter
-    url: https://twitter.com/projetrudi?lang=fr
   - icon: linkedin
-    url: https://www.linkedin.com/company/projet-rudi/
+    url: https://www.linkedin.com/company/portail-rudi/

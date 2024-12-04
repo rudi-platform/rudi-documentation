@@ -52,7 +52,7 @@ jobs:
             cp -R .circleci _site/
             git config --global user.name rudi-account-service
             git config --global user.email projet-rudi@open-groupe.com
-            ghp-import --cname=doc.rudi.bzh -m "Deploy to GitHub pages" --push _site 
+            ghp-import --cname=doc.rudi.fr -m "Deploy to GitHub pages" --push _site 
 
 workflows:
   version: 2

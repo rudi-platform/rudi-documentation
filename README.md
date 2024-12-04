@@ -1,10 +1,10 @@
-# Documentation de rudi.bzh
+# Documentation de RUDI
 
-Ce dépôt correspond au contenu du site [doc.rudi.bzh](https://doc.rudi.bzh), site consacré à la documentation de la plateforme [rudi.bzh](https://rudi.bzh).
+Ce dépôt correspond au contenu du site [doc.rudi.rennesmetropole.fr](https://doc.rudi.rennesmetropole.fr), site consacré à la documentation de la plateforme [rudi.rennesmetropole.fr](https://rudi.rennesmetropole.fr).
 
 ## Contribuer
 
-Les contributions sont les bienvenues. Elles peuvent prendre la forme de _pull requests_ effectuées [depuis un fork de ce dépôt](https://help.github.com/articles/fork-a-repo/), ou de discussions dans les [tickets GitHub du dépôt](https://github.com/sigrennesmetropole/rudi_documentation/issues).
+Les contributions sont les bienvenues. Elles peuvent prendre la forme de _pull requests_ effectuées [depuis un fork de ce dépôt](https://help.github.com/articles/fork-a-repo/), ou de discussions dans les [tickets GitHub du dépôt](https://github.com/rudi-platform/rudi-documentation/issues).
 
 Les pages sont rangées dans le dossier [articles](articles).
 Elles sont organisées par catégorie.
@@ -38,7 +38,7 @@ Installer Jekyll en suivant la documentation adaptée à votre système : https:
 Cloner le projet et se positionner dans son dossier :
 
 ```
-git clone https://github.com/sigrennesmetropole/rudi_documentation
+git clone https://github.com/rudi-platform/rudi-documentation
 cd rudi_documentation
 ```
 
