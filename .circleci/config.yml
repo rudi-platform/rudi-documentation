@@ -48,8 +48,10 @@ jobs:
             # Dans la liste des projets de l'organisation sélectionner le projet (rudi-documentation) puis dans
             # Project Settings > SSH Keys > Additionl SSH Keys ajouter le nouvelle clé 
             # S'affiche alors le finger print à utiliser ci-dessous
+            # Et le MD5 peut-être généré comme suit ssh-keygen -l -E md5 -f id_ed25519
             # Project Settings > SSH Keys > Additionl SSH Keys > Fingerprint
             # Clé actuelle : Key Pass RUDI (lecteur U:) > Serveurs > Github > Circleci Key
+            - "f3:05:ad:e8:28:80:37:e3:73:5a:6b:d9:12:f8:f0:05"
             - "SHA256:TpurawZETJFOJubDp3G9Hez+DYqXxc277Q/UA5zgtJM"
       - run:
           name: Deploy to GitHub Pages
