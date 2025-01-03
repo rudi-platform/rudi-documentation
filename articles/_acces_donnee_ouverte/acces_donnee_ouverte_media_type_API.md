@@ -3,7 +3,7 @@ order: 3
 title: Requêter un média d'un jeu de données ouvert
 ---
 
-# test - Requêter un média d'un jeu de données ouvert
+# Requêter un média d'un jeu de données ouvert
 
 
 Il est possible de requêter un jeu de données ouvert dont le média est de type "FILE" ou "SERVICE".
