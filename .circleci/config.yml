@@ -1,6 +1,5 @@
 version: 2
-include:
-  - css
+
 jobs:
   build:
     docker:
