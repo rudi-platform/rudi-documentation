@@ -15,7 +15,4 @@ buttons:
   default: faq/integrateur
 ---
 
-![entête](/assets/images/109140019/235720182-af89fa9e-0268-4453-a5ed-cf424ff9bbe1.PNG)
-
-
-![bandeau](/assets/images/109140019/235708199-9a82ffde-f623-4e90-967a-80d3865e4edb.PNG)
+![Bandeau](https://github.com/user-attachments/assets/f06f1548-3350-4763-91cf-75a2ece37b48)
