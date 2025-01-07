@@ -9,12 +9,12 @@ Le portail Rudi expose des microservices pour sa propre utilisation mais ils peu
 
 Les microservices exposés sont listés ci-dessous. Leur documentation est accessible via les hyperliens.
 
-* *https:// <site-rudi> /acl/swagger-ui.html* : microservice permettant d'administrer les utilisateurs
-* *https:// <site-rudi> /konsult/swagger-ui.html* : microservice permettant d'administrer les jeux de données du catalogue Rudi
-* *https:// <site-rudi> /projekt/swagger-ui.html* : microservice permettant d'administrer les projets dans Rudi
-* *https:// <site-rudi> /kos/swagger-ui/index.html?configUrl=%2Fkos%2Fv3%2Fapi-docs%2Fswagger-config&urls.primaryName=kos : microservice permettant d'administrer les mots-clés et thèmes au format SKOS
-* *https:// <site-rudi> /kalim/swagger-ui.html* : microservice permettant de publier/modifier/supprimer un jeu de données dans le portail
-* *https:// <site-rudi> /strukture/swagger-ui.html* : microservice permettant d'administrer les producteurs de données
+* *https://rudi.rennesmetropole.fr//acl/swagger-ui.html* : microservice permettant d'administrer les utilisateurs
+* *https://rudi.rennesmetropole.fr//konsult/swagger-ui.html* : microservice permettant d'administrer les jeux de données du catalogue Rudi
+* *https://rudi.rennesmetropole.fr/projekt/swagger-ui.html* : microservice permettant d'administrer les projets dans Rudi
+* *https://rudi.rennesmetropole.fr/kos/swagger-ui.html* : microservice permettant d'administrer les mots-clés et thèmes au format SKOS
+* *https://rudi.rennesmetropole.fr/kalim/swagger-ui.html* : microservice permettant de publier/modifier/supprimer un jeu de données dans le portail
+* *https://rudi.rennesmetropole.fr/strukture/swagger-ui.html* : microservice permettant d'administrer les producteurs de données
 
 # API de catalogage des jeux de données
 
