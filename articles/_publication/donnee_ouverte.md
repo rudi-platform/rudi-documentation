@@ -1,6 +1,6 @@
 ---
 order: 2
-title: test - Données ouvertes
+title: Données ouvertes
 ---
 
 # Publication de données ouvertes sur Rudi
