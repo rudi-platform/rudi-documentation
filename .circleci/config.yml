@@ -12,6 +12,11 @@ jobs:
       - checkout
 
       - run:
+          name: Update Year
+          command: |
+            CURRENT_YEAR=$(date +%Y)
+            sed -i "s/^year: .*/year: $CURRENT_YEAR/" _config.yml
+      - run:
           name: Install Ruby dependencies
           command: bundle install
 
