@@ -17,7 +17,7 @@ Vous pouvez également télécharger le jeu de données depuis son détail : pou
 
 ## Téléchargement de la donnée via API
 
-Il faut d'abord s'authentifier avec une des [deux modes disponibles](../_authentification/authentification.md) afin de récupérer un token JWT.
+Il faut d'abord s'authentifier avec une des [deux modes disponibles](https://doc.rudi.fr/api/authentification/) afin de récupérer un token JWT.
 
 Cet appel permet de récupérer un token.
 
