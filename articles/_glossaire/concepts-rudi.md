@@ -5,8 +5,7 @@ title: Concepts de Rudi
 
 # Glossaire : notions-clés utilisées sur la plateforme Rudi
 
-![bandeau](/assets/images//images/glossaire/rudi.png)
-
+<img width="1381" height="273" alt="bandeau" src="https://github.com/user-attachments/assets/921e5138-2b31-45d3-93b4-917aa4cf5105" />
 
 ## Réutilisation
 
