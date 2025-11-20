@@ -21,7 +21,7 @@ Il faut d'abord s'authentifier avec une des [deux modes disponibles](https://doc
 
 Cet appel permet de récupérer un token.
 
-Il faut ensuite effectuer une requête de la forme :
+Il faut ensuite effectuer une requête de la forme en remplaçant <site-rudi> par le nom de domaine de votre site :
 
 ```
 curl -kv -XGET -H "Authorization: Bearer <le token  que vous avez récupéré ci-dessus>" "https://<site-rudi>/medias/{IDENTIFIANT DU JEU DE DONNEES}/{IDENTIFIANT DU MEDIA}/{CONTRAT D'INTERFACE}"
