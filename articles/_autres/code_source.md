@@ -6,7 +6,7 @@ title: Code source
 
 # Code source
 Rudi est publié sous licence EUPL1.2 
-* Code source du portail : [https://github.com/rudi-platform/rudi-portal](https://github.com/rudi-platform/rudi-portal)
+* Code source du portail : https://github.com/rudi-platform/rudi-node-storage / https://github.com/rudi-platform/rudi-node-manager / https://github.com/rudi-platform/rudi-node-catalog
 
 ![gitrudi](/assets/images/autres/github-portal.png)
 
