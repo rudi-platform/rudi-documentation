@@ -4,6 +4,6 @@ title: Fonctionnalités
 ---
 
 # Fonctionnalités
-Un guide utilisateur présentant le noeud producteur est disponible en cliquant [ici](https://rudi.fr/yeswiki/?LeNoeudProducteurV23NouvellesFonctionnal).
+Un guide utilisateur présentant le noeud producteur est disponible en cliquant [ici](https://rudi.fr/?LeNoeudProducteurV23NouvellesFonctionnal).
 
 ![noeud](/assets/images/publication/node-provider.png)
