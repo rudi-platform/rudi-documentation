@@ -9,7 +9,7 @@ Retrouvez ci-dessous l'ensemble des liens et ressources pour appréhender le por
 
 
 # Feuille de route publique
-* Consultez l'avancement du développement et les prochaines mises à jour du portail : [https://roadmap.rudi.fr/rudi](https://roadmap.rudi.fr/rudi)
+* Consultez l'avancement du développement et les prochaines mises à jour du portail : [https://github.com/orgs/rudi-platform/projects/2/views/1](https://github.com/orgs/rudi-platform/projects/2/views/1)
 
 
 # Blog du projet
@@ -18,6 +18,3 @@ Retrouvez ci-dessous l'ensemble des liens et ressources pour appréhender le por
 
 # Wiki
 * Consultez et téléchargez toutes les ressources ouvertes réalisées dans le cadre du projet Rudi : [https://rudi.fr/yeswiki](https://rudi.fr/yeswiki/?PagePrincipale)
-
-
-
